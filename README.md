@@ -1,4 +1,4 @@
-# ugeopgave5-composition-and-inheritance
+# ugeopgave6-composition-and-inheritance
 
 Kadir C  
 muci1000@stud.ek.dk
